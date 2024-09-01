@@ -17,8 +17,7 @@ This repository showcases a collection of projects that demonstrate the setup, m
 - **[AUDIT COMMON THREATS GPO's & Honeypot setup in AD.pdf](https://github.com/user-attachments/files/16827653/AUDIT.COMMON.THREATS.GPO.s.Honeypot.setup.in.AD.pdf)**
 
 ## Instructions
-Each project folder contains:
-- A PDF document detailing the project.
+- A download the provided  PDF documents detailing the projects.
 
 
 ## Conclusion
